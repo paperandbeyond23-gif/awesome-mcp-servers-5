@@ -67,6 +67,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [google_workspace_mcp (taylorwilsdon)](https://github.com/taylorwilsdon/google_workspace_mcp) - Comprehensive Google Workspace integration with support for Calendar, Drive, Gmail, Docs, Sheets, and Chats.
 ### 3. Lead Generation & Enrichment
 
+- [restosignals-mcp (paperandbeyond23-gif)](https://github.com/paperandbeyond23-gif/restosignals-mcp) - Remote server that finds US restaurants and bars 1-6 months before they open, scored from public liquor-license, food-permit and business filings, with owner contact.
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
